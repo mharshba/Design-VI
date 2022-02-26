@@ -31,30 +31,53 @@
 
 ---
 
-**git clone https://github.com/kevinwlu/iot.git**
+**git clone https://github.com/kevinwlu/iot.git** (I previously cloned this)
 
 <img width="640" alt="5) git clone iot" src="https://user-images.githubusercontent.com/78380843/155861950-cad95c65-87dd-46d7-b899-26f62c3efe36.png">
 
 ---
-
 **cd iot, ls, cd**
 
 <img width="709" alt="6) cdiot_ls_cd" src="https://user-images.githubusercontent.com/78380843/155861957-a19c98f3-4344-4109-af9f-25faf6bf6491.png">
 
 ---
-
 **df**
 
 <img width="818" alt="7) df" src="https://user-images.githubusercontent.com/78380843/155861962-a263db42-4530-4fb1-8a79-dbd3612fda4e.png">
 
 ---
-
 **mkdir demo, cd demo**
 
 <img width="558" alt="8) mkdir_demo cd_demo" src="https://user-images.githubusercontent.com/78380843/155861968-cb4a4d8e-e208-4350-9bd6-140c16994ae2.png">
 
+---
 **nano file**
 
 <img width="893" alt="9) nano file" src="https://user-images.githubusercontent.com/78380843/155861970-764683f0-8918-4153-a041-4e87aaa2a357.png">
 
 ---
+**cat file**
+
+---
+**cp file file1**
+
+---
+**mv file file2**
+
+---
+**rm file2**
+
+---
+**clear**
+
+---
+**man uname**
+
+---
+**ifconfig**
+
+---
+**ping localhost**
+
+---
+**netstat**
