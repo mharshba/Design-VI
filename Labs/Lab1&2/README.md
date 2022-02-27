@@ -58,26 +58,40 @@
 ---
 **cat file**
 
----
-**cp file file1**
+<img width="546" alt="10) cat file" src="https://user-images.githubusercontent.com/78380843/155863201-7363f6d0-7a86-488e-8c74-e6ac7e008344.png">
 
 ---
-**mv file file2**
+**cp file file1, mv file file2, rm file2**
 
----
-**rm file2**
+<img width="486" alt="11) cp,mv,rm" src="https://user-images.githubusercontent.com/78380843/155863203-2f4f00d6-de3b-4ad2-a15e-52d049f1c8c0.png">
 
 ---
 **clear**
 
+<img width="566" alt="12) clear" src="https://user-images.githubusercontent.com/78380843/155863209-ea412cad-fcca-4296-a9a7-9b52b912fd0c.png">
+
 ---
 **man uname**
+
+<img width="658" alt="13) man uname" src="https://user-images.githubusercontent.com/78380843/155863210-fc1618ba-20ed-4e18-bc9d-77600c8a63ca.png">
 
 ---
 **ifconfig**
 
+<img width="757" alt="15) ifconfig 1" src="https://user-images.githubusercontent.com/78380843/155863219-f24200fd-81e9-4b9a-8537-cd97f21c731f.png">
+<img width="759" alt="16) ifconfig 2" src="https://user-images.githubusercontent.com/78380843/155863227-7e21be3a-534a-4106-bd54-8da1f3d52dd5.png">
+
 ---
 **ping localhost**
 
+<img width="567" alt="17) ping localhost" src="https://user-images.githubusercontent.com/78380843/155863245-afb9f54d-fca2-46f9-9db5-ada5245a8bf5.png">
+
 ---
 **netstat**
+
+<img width="935" alt="18) netstat 1" src="https://user-images.githubusercontent.com/78380843/155863254-cf4f73a6-2bde-4dd9-8c49-15c1073e9643.png">
+<img width="933" alt="18) netstat 2" src="https://user-images.githubusercontent.com/78380843/155863255-e344b042-5dad-416a-9210-1b8e310c0c95.png">
+<img width="939" alt="18) netstat 3" src="https://user-images.githubusercontent.com/78380843/155863261-336c0638-8cfc-4a90-ac84-99af53478d9c.png">
+<img width="939" alt="18) netstat 4" src="https://user-images.githubusercontent.com/78380843/155863267-c0aafa0d-077c-4b22-b9f5-da574ee54aff.png">
+<img width="937" alt="18) netstat 5" src="https://user-images.githubusercontent.com/78380843/155863271-9f072580-dac1-488b-8278-1d640f9fd392.png">
+<img width="941" alt="18) netstat 6" src="https://user-images.githubusercontent.com/78380843/155863277-6004364c-376b-409c-a368-b67daf955e12.png">
