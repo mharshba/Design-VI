@@ -1,4 +1,4 @@
-**Lab 1&2**
+**Lab 3 - Python**
 
 **Matthew Harshbarger**
 
