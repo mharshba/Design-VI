@@ -6,6 +6,8 @@
 
 **Completed on Local Machine (Not Raspberry Pi)**
 
+THIS WILL NOT WORK ON MY MACBOOK. I WILL HAVE ACCESS TO A PI AND FINISH LAB 3 & LAB 4 TOMORROW 2/27
+
 ---
 **cd iot & cd 3**
 
