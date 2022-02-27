@@ -7,7 +7,7 @@
 **Completed on Local Machine (Not Raspberry Pi)**
 
 ---
-**cd iot & cd *3**
+**cd iot & cd 3**
 
 ---
 **python3 julian.py**
