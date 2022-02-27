@@ -76,7 +76,7 @@
 <img width="658" alt="13) man uname" src="https://user-images.githubusercontent.com/78380843/155863210-fc1618ba-20ed-4e18-bc9d-77600c8a63ca.png">
 
 ---
-**ifconfig**
+**ifconfig** (multiple screenshots)
 
 <img width="757" alt="15) ifconfig 1" src="https://user-images.githubusercontent.com/78380843/155863219-f24200fd-81e9-4b9a-8537-cd97f21c731f.png">
 <img width="759" alt="16) ifconfig 2" src="https://user-images.githubusercontent.com/78380843/155863227-7e21be3a-534a-4106-bd54-8da1f3d52dd5.png">
@@ -87,7 +87,7 @@
 <img width="567" alt="17) ping localhost" src="https://user-images.githubusercontent.com/78380843/155863245-afb9f54d-fca2-46f9-9db5-ada5245a8bf5.png">
 
 ---
-**netstat**
+**netstat** (multiple screenshots)
 
 <img width="935" alt="18) netstat 1" src="https://user-images.githubusercontent.com/78380843/155863254-cf4f73a6-2bde-4dd9-8c49-15c1073e9643.png">
 <img width="933" alt="18) netstat 2" src="https://user-images.githubusercontent.com/78380843/155863255-e344b042-5dad-416a-9210-1b8e310c0c95.png">
