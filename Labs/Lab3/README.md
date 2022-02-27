@@ -9,6 +9,8 @@
 ---
 **cd iot & cd 3**
 
+<img width="570" alt="1) cd" src="https://user-images.githubusercontent.com/78380843/155864177-7edac363-894e-4075-8c1c-330957f05d25.png">
+
 ---
 **python3 julian.py**
 
