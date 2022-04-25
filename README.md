@@ -1,5 +1,1 @@
-Design VI Assignment 0: GitHub Repository
-
-**It would not work before**
-
-_It works now_
+**Design VI GitHub Repository**
