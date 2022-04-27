@@ -5,6 +5,9 @@
 **I pledge my honor that I have abided by the Stevens Honor System. MBH**
 
 ---
+**PART A: DJANGO**
+---
+
 **pip3 -V**
 
 <img width="529" alt="1)pip-V" src="https://user-images.githubusercontent.com/78380843/156012716-3831d206-1b37-4a78-813f-02a458a51a72.png">
@@ -95,4 +98,46 @@
 <img width="654" alt="16) makeMigrations_REVISED" src="https://user-images.githubusercontent.com/78380843/165538983-6bd48ab9-f4fb-4bc3-bb4c-024e20940541.png">
 
 ---
-**I got more errors at this point. Trying to work them out. Will work on it today.**
+**run Django**
+
+<img width="717" alt="18) run Django" src="https://user-images.githubusercontent.com/78380843/165647871-9a00e288-6805-44cd-a3b2-9386aa69e58e.png">
+
+---
+**Djagno Administration**
+
+<img width="1541" alt="19) django admin" src="https://user-images.githubusercontent.com/78380843/165647912-021e0a90-5baa-45fc-b609-f9231e846823.png">
+
+---
+**Weather Station**
+
+<img width="1522" alt="final part" src="https://user-images.githubusercontent.com/78380843/165648007-e6d6994e-727e-4210-8e60-fe4a12958401.png">
+
+---
+**PART B: DJANGO REST**
+---
+**Start a Django Project**
+
+<img width="388" alt="1)create" src="https://user-images.githubusercontent.com/78380843/165648153-786a59ff-6b92-4d43-a78b-ad12ef068ced.png">
+
+---
+**Start a Django App**
+
+<img width="472" alt="2)start" src="https://user-images.githubusercontent.com/78380843/165648182-d2aee71e-6c8d-410c-88df-48ec4483ae4f.png">
+
+---
+**Edit settings.py**
+
+<img width="721" alt="3)editSettings" src="https://user-images.githubusercontent.com/78380843/165648215-29eef266-43c2-4001-ac3a-7039a39b3eca.png">
+
+---
+**Install psutil & make migrations**
+
+<img width="931" alt="4)migrations" src="https://user-images.githubusercontent.com/78380843/165648458-a1b21000-da88-46e8-b965-0e062dc8a23a.png">
+
+---
+**Django Administration**
+
+<img width="1536" alt="djangoAdmin" src="https://user-images.githubusercontent.com/78380843/165648522-87a01522-6705-480a-89c3-4f415f3b93cb.png">
+
+---
+**I COULD NOT GET THE DATA TO COME UP ON MY LAPTOP. I KEPT GETTING AN ERROR. WILL LOOK INTO IT.**
