@@ -62,7 +62,7 @@
 
 <img width="651" alt="10) settings" src="https://user-images.githubusercontent.com/78380843/156014331-cb46d24c-e2e6-416e-856f-3577a1683728.png">
 
-<img width="840" alt="10) settings_REVISED" src="https://user-images.githubusercontent.com/78380843/165538844-9a92a7ff-b6bc-4c45-8329-5f98fd97387d.png">
+<img width="761" alt="10) settings_REVISED1" src="https://user-images.githubusercontent.com/78380843/165539579-52e64c16-66ea-4929-96f1-6819415a8c9d.png">
 
 ---
 **copy urls.py to ~/stevens/stevens**
