@@ -95,3 +95,4 @@
 <img width="654" alt="16) makeMigrations_REVISED" src="https://user-images.githubusercontent.com/78380843/165538983-6bd48ab9-f4fb-4bc3-bb4c-024e20940541.png">
 
 ---
+**I got more errors at this point. Trying to work them out. Will work on it today.**
