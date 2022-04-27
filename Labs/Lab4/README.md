@@ -62,7 +62,7 @@
 
 <img width="651" alt="10) settings" src="https://user-images.githubusercontent.com/78380843/156014331-cb46d24c-e2e6-416e-856f-3577a1683728.png">
 
-<img width="1476" alt="10) settings2" src="https://user-images.githubusercontent.com/78380843/156014351-89a121ef-0d87-4cde-8eb5-f02987d39dc0.png">
+<img width="840" alt="10) settings_REVISED" src="https://user-images.githubusercontent.com/78380843/165538844-9a92a7ff-b6bc-4c45-8329-5f98fd97387d.png">
 
 ---
 **copy urls.py to ~/stevens/stevens**
@@ -92,9 +92,6 @@
 ---
 **migrate and create superuser**
 
-<img width="952" alt="16) makeMigrations" src="https://user-images.githubusercontent.com/78380843/156015166-a90ed1ce-3e02-4c02-ad95-b76152d3c7f5.png">
+<img width="654" alt="16) makeMigrations_REVISED" src="https://user-images.githubusercontent.com/78380843/165538983-6bd48ab9-f4fb-4bc3-bb4c-024e20940541.png">
 
-<img width="1361" alt="17)migrate" src="https://user-images.githubusercontent.com/78380843/156015191-df52ddaa-2a45-4c91-912f-74cfb8560c94.png">
-
-_**I got ERRORS at this point. I am trying to figure out what I did wrong. I think it has to do with the API key**_
 ---
