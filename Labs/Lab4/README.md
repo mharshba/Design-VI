@@ -140,7 +140,5 @@
 <img width="1536" alt="djangoAdmin" src="https://user-images.githubusercontent.com/78380843/165648522-87a01522-6705-480a-89c3-4f415f3b93cb.png">
 
 ---
-![running_server](https://user-images.githubusercontent.com/78380843/165886021-b42143de-af82-4308-a0cb-ee8b21fa2b29.png)
-
 ![FianlPart_PartB](https://user-images.githubusercontent.com/78380843/165886037-53381a03-8624-4537-a488-969e35557ced.png)
 
