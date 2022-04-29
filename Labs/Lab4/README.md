@@ -142,3 +142,7 @@
 ---
 ![FianlPart_PartB](https://user-images.githubusercontent.com/78380843/165886037-53381a03-8624-4537-a488-969e35557ced.png)
 
+---
+**Part C: Flask**
+---
+![Flask](https://user-images.githubusercontent.com/78380843/165886217-30b317ed-1f97-4d87-9221-ccb760188c5c.png)
