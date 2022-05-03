@@ -14,5 +14,7 @@
 
 <img width="523" alt="1_Installing" src="https://user-images.githubusercontent.com/78380843/166395659-3f611311-c800-43ad-a6e9-573bfdf0c174.png">
 
+_numpy will not install_
+
 
 ---
