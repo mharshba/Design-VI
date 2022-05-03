@@ -7,18 +7,19 @@
 ---
 **Install and run pyang**
 
-![1_install](https://user-images.githubusercontent.com/78380843/166391894-1938e4ef-48be-48cd-85ae-fea4b5b30212.png)
+<img width="969" alt="1_Install" src="https://user-images.githubusercontent.com/78380843/166392192-732d70db-f4c4-4849-a829-8f99a21156a1.png">
 
-![2_install](https://user-images.githubusercontent.com/78380843/166391897-d8aeee29-ee4d-4fcc-9d33-77366e1b518e.png)
+<img width="972" alt="2_Install" src="https://user-images.githubusercontent.com/78380843/166392198-6095344e-c048-461d-80ae-411e833346f8.png">
 
-![3_install](https://user-images.githubusercontent.com/78380843/166391902-1939911b-c175-4660-92ee-a82131a4db06.png)
+<img width="628" alt="3_Install" src="https://user-images.githubusercontent.com/78380843/166392205-bb29572b-cdbe-49df-a118-df963f94b642.png">
 
-![4_install](https://user-images.githubusercontent.com/78380843/166391907-9b4bdb88-f282-4408-8cb6-ee05ab43f396.png)
+<img width="947" alt="4_Install" src="https://user-images.githubusercontent.com/78380843/166392212-c85077ad-3d77-477f-a2e7-b0963aec8fe0.png">
+
 
 ---
 **Install PlantUML**
 
-![5_plant](https://user-images.githubusercontent.com/78380843/166391942-7a7b9e8d-a5e0-4027-bcc3-bee75d39548d.png)
+<img width="955" alt="5_Plant" src="https://user-images.githubusercontent.com/78380843/166392219-a57147a2-ca91-4c59-a6d3-d2177b330a14.png">
 
 ---
 **Run PlantUML to create a sequence diagram in PNG**
