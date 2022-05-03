@@ -5,16 +5,8 @@
 **I pledge my honor that I have abided by the Stevens Honor System. MBH**
 
 ---
-**Install python3 packages on macOS**
+**Analyze Raspberry Pi date/time and CPU usage/temperature of Lab7B**
 
-<img width="1481" alt="1_macInstallation" src="https://user-images.githubusercontent.com/78380843/166395895-4d0476d4-48eb-4b1e-8ed7-10c2304c079b.png">
+<img width="569" alt="code" src="https://user-images.githubusercontent.com/78380843/166400035-e7a481b0-67ce-4098-a0fe-6476d1d33f08.png">
 
----
-**Install python3 packages on Raspberry Pi**
-
-<img width="523" alt="1_Installing" src="https://user-images.githubusercontent.com/78380843/166395659-3f611311-c800-43ad-a6e9-573bfdf0c174.png">
-
-_numpy will not install_
-
-
----
+**_Gathering more data. Will update with figures soon_**
